@@ -1,0 +1,13 @@
+write A java program to find the given number is prime or not.
+
+instructions
+
+take a number as user input and check if it is prime or not
+
+Note
+** Prime number is a number which is only divisible by 1 or itself
+example
+
+2 is prime
+
+4 is not prime
